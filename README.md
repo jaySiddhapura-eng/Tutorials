@@ -2,6 +2,6 @@
 
 [MySQL Primer](https://github.com/jaySiddhapura-eng/MySQL) 
 
-[Java Exceptions](https://github.com/jaySiddhapura-eng/JavaExceptions)
+[Java Exceptions](https://jaysiddhapura-eng.github.io/JavaExceptions/)
 
 
