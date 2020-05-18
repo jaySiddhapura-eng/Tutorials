@@ -1,6 +1,6 @@
 ## Index
 
-[MySQL Primer](https://github.com/jaySiddhapura-eng/MySQL) 
+[MySQL Primer](https://jaysiddhapura-eng.github.io/MySQL-Primer/) 
 
 [Java Exceptions](https://jaysiddhapura-eng.github.io/JavaExceptions/)
 
