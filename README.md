@@ -8,6 +8,5 @@
 
 [MongoDB](https://jaysiddhapura-eng.github.io/MongoDB/)
 
-![image](assets/6.StartEditingTheDocument.jpg)
 
 
