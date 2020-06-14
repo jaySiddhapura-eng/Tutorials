@@ -10,5 +10,7 @@
 
 [Git](https://jaysiddhapura-eng.github.io/Git-strategy/)
 
+[JavaScript Primer](https://jaysiddhapura-eng.github.io/JavaScript-Notes/)
+
 
 
