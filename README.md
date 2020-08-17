@@ -1,4 +1,4 @@
-## Index
+<h1> Index </h1>
 
 <h2>Database</h2>
 
