@@ -24,13 +24,14 @@
 
 [JavaScript Primer](https://jaysiddhapura-eng.github.io/JavaScript-Notes/)
 
-    <h3>Angular</h3>
 
-    [Getting started](https://github.com/jaySiddhapura-eng/angularCourse)
+<h3>Angular</h3>
 
-    [App Authentication with Firebase](https://github.com/jaySiddhapura-eng/authentication-ch20)
+[Getting started](https://github.com/jaySiddhapura-eng/angularCourse)
 
-    [Demo angular app - Recipe book](https://github.com/jaySiddhapura-eng/angularCourseProject)
+[App Authentication with Firebase](https://github.com/jaySiddhapura-eng/authentication-ch20)
+
+[Demo angular app - Recipe book](https://github.com/jaySiddhapura-eng/angularCourseProject)
 
 
 <h2>Misc</h2>
