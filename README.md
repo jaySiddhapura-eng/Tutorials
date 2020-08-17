@@ -31,6 +31,8 @@
 
 [Binding Deepdive](https://github.com/jaySiddhapura-eng/AngularBindingsDeepDive)
 
+[Directive Deepdive] (https://github.com/jaySiddhapura-eng/directive-deepdive-ch7)
+
 [App Authentication with Firebase](https://github.com/jaySiddhapura-eng/authentication-ch20)
 
 [Demo angular app - Recipe book](https://github.com/jaySiddhapura-eng/angularCourseProject)
