@@ -29,6 +29,8 @@
 
 [Getting started](https://github.com/jaySiddhapura-eng/angularCourse)
 
+[Binding Deepdive](https://github.com/jaySiddhapura-eng/AngularBindingsDeepDive)
+
 [App Authentication with Firebase](https://github.com/jaySiddhapura-eng/authentication-ch20)
 
 [Demo angular app - Recipe book](https://github.com/jaySiddhapura-eng/angularCourseProject)
