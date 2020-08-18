@@ -33,7 +33,7 @@
 
 [Directive Deepdive](https://github.com/jaySiddhapura-eng/directive-deepdive-ch7) 
 
-[Service & Dependency Injection](https://github.com/jaySiddhapura-eng/angular-service-ch9)
+[Service & Dependency Injection](https://github.com/jaySiddhapura-eng/angular-service-ch9) | [assignment](https://github.com/jaySiddhapura-eng/angular-service-assignment-ch9)
 
 [Http client](https://github.com/jaySiddhapura-eng/http-ch18)
 
