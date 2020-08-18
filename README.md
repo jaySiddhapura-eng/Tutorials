@@ -31,7 +31,7 @@
 
 [Binding Deepdive](https://github.com/jaySiddhapura-eng/AngularBindingsDeepDive)
 
-[Directive Deepdive](https://github.com/jaySiddhapura-eng/directive-deepdive-ch7)
+[Directive Deepdive](https://github.com/jaySiddhapura-eng/directive-deepdive-ch7) - [assignment](https://github.com/jaySiddhapura-eng/ch5Assignment)
 
 [Service & Dependency Injection](https://github.com/jaySiddhapura-eng/angular-service-ch9)
 
