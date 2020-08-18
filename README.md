@@ -29,9 +29,9 @@
 
 [Getting started](https://github.com/jaySiddhapura-eng/angularCourse)
 
-[Binding Deepdive](https://github.com/jaySiddhapura-eng/AngularBindingsDeepDive)
+[Binding Deepdive](https://github.com/jaySiddhapura-eng/AngularBindingsDeepDive) | [assignment](https://github.com/jaySiddhapura-eng/ch5Assignment)
 
-[Directive Deepdive](https://github.com/jaySiddhapura-eng/directive-deepdive-ch7) | [assignment](https://github.com/jaySiddhapura-eng/ch5Assignment)
+[Directive Deepdive](https://github.com/jaySiddhapura-eng/directive-deepdive-ch7) 
 
 [Service & Dependency Injection](https://github.com/jaySiddhapura-eng/angular-service-ch9)
 
