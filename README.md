@@ -37,6 +37,8 @@
 
 [Routing](https://github.com/jaySiddhapura-eng/routing-ch11)
 
+[Pipes](https://github.com/jaySiddhapura-eng/pipe-ch17)
+
 [Http client](https://github.com/jaySiddhapura-eng/http-ch18)
 
 [App Authentication with Firebase](https://github.com/jaySiddhapura-eng/authentication-ch20)
