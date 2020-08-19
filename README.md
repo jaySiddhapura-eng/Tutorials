@@ -35,6 +35,8 @@
 
 [Service & Dependency Injection](https://github.com/jaySiddhapura-eng/angular-service-ch9) | [assignment](https://github.com/jaySiddhapura-eng/angular-service-assignment-ch9)
 
+[Routing](https://github.com/jaySiddhapura-eng/routing-ch11)
+
 [Http client](https://github.com/jaySiddhapura-eng/http-ch18)
 
 [App Authentication with Firebase](https://github.com/jaySiddhapura-eng/authentication-ch20)
