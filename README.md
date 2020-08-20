@@ -37,9 +37,9 @@
 
 [Routing](https://github.com/jaySiddhapura-eng/routing-ch11)
 
-[Routing](https://github.com/jaySiddhapura-eng/routing-ch11)
-
 [Observable](https://github.com/jaySiddhapura-eng/custom-observable-ch13)
+
+[Pipes] (https://github.com/jaySiddhapura-eng/pipe-ch17)
 
 [Http client](https://github.com/jaySiddhapura-eng/http-ch18)
 
