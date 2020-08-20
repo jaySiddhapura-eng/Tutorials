@@ -41,6 +41,10 @@
 
 [Pipes](https://github.com/jaySiddhapura-eng/pipe-ch17)
 
+[Template Driven Forms](https://github.com/jaySiddhapura-eng/form-control-ch15)
+
+[Reactive Forms](https://github.com/jaySiddhapura-eng/reactive-form-ch15)
+
 [Http client](https://github.com/jaySiddhapura-eng/http-ch18)
 
 [App Authentication with Firebase](https://github.com/jaySiddhapura-eng/authentication-ch20)
