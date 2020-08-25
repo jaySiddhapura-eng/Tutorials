@@ -27,9 +27,9 @@
 
 <h3>Angular</h3>
 
-[Getting started](https://github.com/jaySiddhapura-eng/angularCourse)
+|[Getting started](https://github.com/jaySiddhapura-eng/angularCourse) | [Binding Deepdive](https://github.com/jaySiddhapura-eng/AngularBindingsDeepDive) [ [assignment](https://github.com/jaySiddhapura-eng/ch5Assignment) ] |
 
-[Binding Deepdive](https://github.com/jaySiddhapura-eng/AngularBindingsDeepDive) [ [assignment](https://github.com/jaySiddhapura-eng/ch5Assignment) ]
+
 
 [Directive Deepdive](https://github.com/jaySiddhapura-eng/directive-deepdive-ch7) 
 
