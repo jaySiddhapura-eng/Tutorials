@@ -17,7 +17,7 @@
 
 [Getting started](https://github.com/jaySiddhapura-eng/spring5-getting-started)
 
-[Pet clinic app] (https://github.com/jaySiddhapura-eng/spring5-getting-started)
+[Pet clinic app](https://github.com/jaySiddhapura-eng/spring5-getting-started)
 
 
 <h2>Frontend</h2>
