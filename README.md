@@ -27,13 +27,13 @@
 
 <h3>Angular</h3>
 
-|[Getting started](https://github.com/jaySiddhapura-eng/angularCourse) | [Binding Deepdive](https://github.com/jaySiddhapura-eng/AngularBindingsDeepDive) [ [assignment](https://github.com/jaySiddhapura-eng/ch5Assignment) ] |
+| [Getting started](https://github.com/jaySiddhapura-eng/angularCourse) | [Binding Deepdive](https://github.com/jaySiddhapura-eng/AngularBindingsDeepDive) [ [assignment](https://github.com/jaySiddhapura-eng/ch5Assignment) ] |
+
+| [Directive Deepdive](https://github.com/jaySiddhapura-eng/directive-deepdive-ch7) | [Service & Dependency Injection](https://github.com/jaySiddhapura-eng/angular-service-ch9) [ [assignment](https://github.com/jaySiddhapura-eng/angular-service-assignment-ch9) ] |
 
 
 
-[Directive Deepdive](https://github.com/jaySiddhapura-eng/directive-deepdive-ch7) 
 
-[Service & Dependency Injection](https://github.com/jaySiddhapura-eng/angular-service-ch9) [ [assignment](https://github.com/jaySiddhapura-eng/angular-service-assignment-ch9) ]
 
 [Routing](https://github.com/jaySiddhapura-eng/routing-ch11)
 
