@@ -58,7 +58,6 @@
 
 
 | zdc   | ZXC    |
-| ----- | ------ |
 | sdfsf | sdfsd  |
 | sdfs  |        |
 | sdfsf | sdfsdf |
