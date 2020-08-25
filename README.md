@@ -56,7 +56,8 @@
 
 [Git](https://jaysiddhapura-eng.github.io/Git-strategy/)
 
-
+|   |     |
+| -   | -    |
 | zdc   | ZXC    |
 | sdfsf | sdfsd  |
 | sdfs  |        |
