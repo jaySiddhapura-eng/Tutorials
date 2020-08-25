@@ -16,14 +16,6 @@
 
 <h2>Frontend</h2>
 
-[HTML temps](https://github.com/jaySiddhapura-eng/htmlTamplets)
-
-[css temps](https://github.com/jaySiddhapura-eng/css)
-
-[bootstrap](https://jaysiddhapura-eng.github.io/bootstrap/)
-
-[JavaScript Primer](https://jaysiddhapura-eng.github.io/JavaScript-Notes/)
-
 | 1. [HTML temps](https://github.com/jaySiddhapura-eng/htmlTamplets) | 2. [css temps](https://github.com/jaySiddhapura-eng/css)     |
 | 3. [bootstrap](https://jaysiddhapura-eng.github.io/bootstrap/) | 4. [JavaScript Primer](https://jaysiddhapura-eng.github.io/JavaScript-Notes/) |
 
