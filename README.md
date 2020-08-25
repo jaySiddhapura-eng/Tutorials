@@ -29,11 +29,11 @@
 
 [Getting started](https://github.com/jaySiddhapura-eng/angularCourse)
 
-[Binding Deepdive](https://github.com/jaySiddhapura-eng/AngularBindingsDeepDive) || [assignment](https://github.com/jaySiddhapura-eng/ch5Assignment)
+[Binding Deepdive](https://github.com/jaySiddhapura-eng/AngularBindingsDeepDive) [ [assignment](https://github.com/jaySiddhapura-eng/ch5Assignment) ]
 
 [Directive Deepdive](https://github.com/jaySiddhapura-eng/directive-deepdive-ch7) 
 
-[Service & Dependency Injection](https://github.com/jaySiddhapura-eng/angular-service-ch9) || [assignment](https://github.com/jaySiddhapura-eng/angular-service-assignment-ch9)
+[Service & Dependency Injection](https://github.com/jaySiddhapura-eng/angular-service-ch9) [ [assignment](https://github.com/jaySiddhapura-eng/angular-service-assignment-ch9) ]
 
 [Routing](https://github.com/jaySiddhapura-eng/routing-ch11)
 
@@ -43,7 +43,7 @@
 
 [Template Driven Forms](https://github.com/jaySiddhapura-eng/form-control-ch15)
 
-[Reactive Forms](https://github.com/jaySiddhapura-eng/reactive-form-ch15) || [Assignment](https://github.com/jaySiddhapura-eng/form-reactive-assignment-ch15)
+[Reactive Forms](https://github.com/jaySiddhapura-eng/reactive-form-ch15) [ [Assignment](https://github.com/jaySiddhapura-eng/form-reactive-assignment-ch15) ]
 
 [Http client](https://github.com/jaySiddhapura-eng/http-ch18)
 
