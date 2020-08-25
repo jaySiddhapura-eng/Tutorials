@@ -56,8 +56,7 @@
 
 [Git](https://jaysiddhapura-eng.github.io/Git-strategy/)
 
-|  |                                                              |
-| - | - |
+
 | 1. [Getting started](https://github.com/jaySiddhapura-eng/angularCourse) | 2. [Binding Deepdive](https://github.com/jaySiddhapura-eng/AngularBindingsDeepDive) [ [assignment](https://github.com/jaySiddhapura-eng/ch5Assignment) ] |
 | 3. [Directive Deepdive](https://github.com/jaySiddhapura-eng/directive-deepdive-ch7) | 4. [Service & Dependency Injection](https://github.com/jaySiddhapura-eng/angular-service-ch9) [ [assignment](https://github.com/jaySiddhapura-eng/angular-service-assignment-ch9) ] |
 | 5. [Routing](https://github.com/jaySiddhapura-eng/routing-ch11) | 6. [Observable](https://github.com/jaySiddhapura-eng/custom-observable-ch13) |
