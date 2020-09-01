@@ -17,6 +17,8 @@
 
 [Getting started](https://github.com/jaySiddhapura-eng/spring5-getting-started)
 
+[Dependency Injection](https://github.com/jaySiddhapura-eng/spring5-dependency-injection)
+
 [Pet clinic app](https://github.com/jaySiddhapura-eng/spring-5-pet-clinic-project)
 
 
