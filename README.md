@@ -19,6 +19,8 @@
 
 [Dependency Injection](https://github.com/jaySiddhapura-eng/spring5-dependency-injection)
 
+[Basic Spring MVC App](https://github.com/jaySiddhapura-eng/basic-MVC-spring5)
+
 [Pet clinic app](https://github.com/jaySiddhapura-eng/spring-5-pet-clinic-project)
 
 
