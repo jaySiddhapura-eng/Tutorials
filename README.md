@@ -21,6 +21,8 @@
 
 [Basic Spring MVC App](https://github.com/jaySiddhapura-eng/basic-MVC-spring5)
 
+[Spring Configuration](https://github.com/jaySiddhapura-eng/Configuration-Spring5)
+
 [Pet clinic app](https://github.com/jaySiddhapura-eng/pet-clinic-spring5)
 
 
