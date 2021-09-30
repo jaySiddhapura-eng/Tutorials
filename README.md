@@ -44,6 +44,8 @@
 
 <h3>MEAN Stack</h3>
 1. [Introduction](https://github.com/jaySiddhapura-eng/MEAN-stack-introduction)
+2. [Node.js Basics](https://github.com/jaySiddhapura-eng/NodeCode)
+3. [Node.js Deepdive](https://github.com/jaySiddhapura-eng/NodeCode)
 
 <h2>Misc</h2>
 
