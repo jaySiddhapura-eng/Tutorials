@@ -41,6 +41,7 @@
 | 9. [Reactive Forms](https://github.com/jaySiddhapura-eng/reactive-form-ch15) [ [Assignment](https://github.com/jaySiddhapura-eng/form-reactive-assignment-ch15) ] | 10. [Http client](https://github.com/jaySiddhapura-eng/http-ch18) |
 | 11. [App Authentication with Firebase](https://github.com/jaySiddhapura-eng/authentication-ch20) | 12. [Testing](https://github.com/jaySiddhapura-eng/Angular-Testing)   |
 | 13. [Demo angular app - Recipe book](https://github.com/jaySiddhapura-eng/angularCourseProject) | 14. [App](https://recipe-frontend.web.app/auth) |
+| 15. [Angular Library](https://github.com/jaySiddhapura-eng/angular-library/tree/master) |
 
 <h3>MEAN Stack</h3>
 1. [Introduction](https://github.com/jaySiddhapura-eng/MEAN-stack-introduction)
