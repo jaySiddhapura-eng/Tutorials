@@ -52,8 +52,8 @@
 
 <h2>Misc</h2>
 
-[Git](https://jaysiddhapura-eng.github.io/Git-strategy/)
-[Docker + GCP](https://github.com/jaySiddhapura-eng/Docker-GCP)
+1. [Git](https://jaysiddhapura-eng.github.io/Git-strategy/)
+2. [Docker + GCP](https://github.com/jaySiddhapura-eng/Docker-GCP)
 
 
 
